@@ -49,4 +49,4 @@ let userIdsByForEach = []
 someArray.forEach((item)=> {
     userIdsByForEach.push(item.id)
 })
-console.log('second realization using for ', userIdsByForEach)
+console.log('third realization using forEach ', userIdsByForEach)
